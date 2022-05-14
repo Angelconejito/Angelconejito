@@ -3,6 +3,6 @@ estoy interesado en la programacion, tengo conocimientos basicos sobre python y 
 
 
 ## Mis Proyectos
-- [Tazita-Bot](https://github.com/Angelconejito/Tazita-Bot) (Discord Bot, ¡Terminado!)
+- [ANormalRaid-Bot](https://github.com/Angelconejito/ANR-Bot) (Discord Bot, ¡Terminado!)
 - [Ryter-Bot](https://github.com/Angelconejito/Ryter-Bot) (Discord Bot, En Proceso)
 - TermCode (Editor de codigo por terminal, todavia no tiene repositorio)
